@@ -1,0 +1,1 @@
+requests>=2.0\npandas>=1.0\nnumpy>=1.0\nflask>=2.0

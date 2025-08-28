@@ -1,0 +1,1 @@
+database:\n  host: localhost\n  port: 5432\n  name: ali_cli_gui_db
